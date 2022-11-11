@@ -134,7 +134,7 @@ pyOpenSSL==18.0.0
 pyparsing==2.2.0
 PyQt5==5.13.0
 PyQt5-sip==4.19.18
-pyspark==2.4.0
+pyspark==3.2.2
 python-apt==1.1.0b1+ubuntu0.16.4.5
 python-dateutil==2.7.3
 python-debian==0.1.27
